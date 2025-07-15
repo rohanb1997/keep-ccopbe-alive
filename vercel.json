@@ -3,7 +3,7 @@
     "jobs": [
       {
         "path": "/api/ping",
-        "schedule": "*/14 * * * *"
+        "schedule": "*/14~ * * * *"
       }
     ]
   }
